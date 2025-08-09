@@ -1,11 +1,9 @@
 ---
-title: "My Website"
+title: "E-Wanderer"
 ---
 
-This is a Quarto website.
+# 电子荒原流浪儿的主页
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+还未完工
 
-```{r}
-1 + 1
-```
+b站同名
