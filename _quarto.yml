@@ -16,7 +16,7 @@ website:
     right:
       - icon: github
         text: 项目仓库
-        href: https://github.com
+        href: https://github.com/E-Wanderer/e-wanderer.github.io
 
 format:
   html:
