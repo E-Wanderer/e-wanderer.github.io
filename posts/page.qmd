@@ -1,0 +1,7 @@
+---
+title: "篇文"
+listing:
+  - contents: posts
+  - type: default
+---
+

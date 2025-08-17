@@ -1,7 +1,15 @@
 ---
-title: "About"
+title: "电子荒原流浪儿"
+about: 
+  template: jolla
+  image: profile.jpg
+  links: 
+    - icon: github
+      text: Github
+      href: https://github.com
+    - icon: box-arrow-in-right
+      text: bilibili
+      href: https://space.bilibili.com/329348969
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+这个人很神秘，因为他懒得给自己写介绍。

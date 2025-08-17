@@ -2,15 +2,36 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "E-Wanderer",
+    "title": "首页",
     "section": "",
-    "text": "电子荒原流浪儿的主页\n还未完工\nb站同名"
+    "text": "最近更新\n什么都还没做哈哈哈哈\n本人比较懒QAQ"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "电子荒原流浪儿",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "这个人很神秘，因为他懒得给自己写介绍。"
+  },
+  {
+    "objectID": "post.html",
+    "href": "post.html",
+    "title": "篇文",
+    "section": "",
+    "text": "测试\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n\n\n测试\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n电子荒原流浪儿\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n首页\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/p0.html",
+    "href": "posts/p0.html",
+    "title": "测试",
+    "section": "",
+    "text": "这是一个测试文件"
+  },
+  {
+    "objectID": "posts/page.html",
+    "href": "posts/page.html",
+    "title": "篇文",
+    "section": "",
+    "text": "No matching items\n\n\n\n\n\n\n\n\n\n\n测试\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]
