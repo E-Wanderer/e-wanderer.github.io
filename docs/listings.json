@@ -1,14 +1,6 @@
 [
   {
-    "listing": "/post.html",
-    "items": [
-      "/posts/p0.html",
-      "/about.html",
-      "/index.html"
-    ]
-  },
-  {
-    "listing": "/posts/page.html",
+    "listing": "/index.html",
     "items": [
       "/posts/p0.html"
     ]

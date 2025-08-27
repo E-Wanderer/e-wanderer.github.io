@@ -1,9 +1,15 @@
 ---
 title: "首页"
+listing:
+  contents: "posts/*.qmd"
+  sort: date
+  type: default
 ---
 
+# 网站介绍
+
+这是一个无聊的人搞出来玩的小网站，本网站使用Quarto搭建，Github Pages发布，比较简单。
+
+本人还在摸索之中，后续可能会加入具有交互性的更好玩的功能。
+
 # 最近更新
-
-什么都还没做哈哈哈哈
-
-本人比较懒QAQ
